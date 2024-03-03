@@ -1,4 +1,4 @@
-# Alzheimer-s-Disease-Classification-Model
+# Alzheimer-Disease-Classification-Model
 Final Project on Artificial Intelligence
 ## Description
 Classify the severity of Alzheimer's symptoms and explain the model using the SHAP package.
